@@ -1,1 +1,1 @@
-# Microservices-blog-platform
+# Micro-blog-platform
